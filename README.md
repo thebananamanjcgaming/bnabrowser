@@ -12,7 +12,7 @@
 
 ## WARNING
 
-# Take note of that this browser WILL take about 15 - 30 seconds to load for the first time because of initilization.
+# Take note of that this browser WILL take about 30 seconds to load because of initilization but after initlization, it works like a charm!
 
 ## THE END
 
