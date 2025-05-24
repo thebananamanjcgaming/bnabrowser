@@ -31,7 +31,7 @@ splash = QSplashScreen(splash_pix)
 splash.show()
 
 # ✅ Simulate loading time without freezing UI
-time.sleep(2)
+time.sleep(30)
 
 class CustomBrowser(QMainWindow):
     def __init__(self):
